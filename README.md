@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Pradhan</h1>
-<h3 align="center">A passionate CS Student from India</h3>
+<h1 align="center">Hola👋, I'm Aditya Pradhan</h1>
+<h3 align="center">A CS Student from India</h3>
 <img align="right" width="400" src = "https://imgs.search.brave.com/82o9F7LM6GhK9Aa3gupBQQ8NjkxXyBoN_0UhuZP3dVE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3pPdkJL/VVVFRVJkTm0vZ2lw/aHkuZ2lmP2NpZD03/OTBiNzYxMWF4dTgw/NXBobTJrcDFkMTdv/enBpYjB3MnduZGJs/MWxyYmcyNmVvMjUm/ZXA9djFfZ2lmc19z/ZWFyY2gmcmlkPWdp/cGh5LmdpZiZjdD1n.gif" </img>
 <p align="left"> <a href="https://twitter.com/aditya101712" target="blank"><img src="https://img.shields.io/twitter/follow/aditya101712?logo=twitter&style=for-the-badge" alt="aditya101712" /></a> </p>
 

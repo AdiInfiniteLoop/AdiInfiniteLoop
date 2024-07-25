@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aditya101712" target="blank"><img src="https://img.shields.io/twitter/follow/aditya101712?logo=twitter&style=for-the-badge" alt="aditya101712" /></a> </p>
 
-<img align="right" width="400" src = "https://gifdb.com/linux" </img>
+<img align="right" width="400" src = "https://imgs.search.brave.com/I7n1U5lK3XxOBCoaPc4poxRcHvmG92_foh5qBQXwoZo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbGludXgt/c2VjdXJpdHktdGhy/ZWF0cy1wYmc0bG81/eGR0a2lkbWc1Lmdp/Zg.gif" </img>
 
 - 🌱 I’m currently learning **React and JS**
 

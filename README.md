@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning  JavaScript and React.js<br><br>💬 Ask me about Data Structures, Linux, Web Development<br><br>📫 How to reach me dev.aditya.pradhan@gmail.com<br><br>⚡ Fun fact I think I am !funny
+🌱 I’m currently learning  Typescript, Recoil and Nextjs <br><br>💬 Ask me about Data Structures, Linux, Web Development<br><br>📫 How to reach me adityapradhanofficial1712@gmail.com<br><br>⚡ Fun fact I think I am !funny
 
 
 ## 🌐 Socials:

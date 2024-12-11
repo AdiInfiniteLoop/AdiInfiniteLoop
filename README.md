@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="center">amateur Aditya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiinfiniteloop&label=Profile%20views&color=0e75b6&style=flat" alt="adiinfiniteloop" /> </p>
-
-- 📫 How to reach me **adityapradhanofficial1712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

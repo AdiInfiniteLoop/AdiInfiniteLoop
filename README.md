@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiinfiniteloop&show_icons=true&locale=en" alt="adiinfiniteloop" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiinfiniteloop&" alt="adiinfiniteloop" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiinfiniteloop&" alt="" /></p>

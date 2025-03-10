@@ -44,3 +44,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- GitHub Stats - Trophy -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiinfiniteloop&row=1&col=7&theme=onedark" alt="adiinfiniteloop" /></a> </p>
+
+<!---
+AdiInfiniteLoop/AdiInfiniteLoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

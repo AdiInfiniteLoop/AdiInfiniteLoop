@@ -19,9 +19,11 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [Blogs](https://blogsadityapradhan.hashnode.dev/)
+- 🔖 Read My Latest Blog on [Hashnode](https://blogsadityapradhango.hashnode.dev/sqlc-for-gophers)
 
 - 💬 Ask me about **Go, Typescript, Linux Systems**
+
+- 📝 I regularly write articles on [Blogs](https://blogsadityapradhan.hashnode.dev/)
 
 - 📫 How to reach me **adityadityapradhanofficial1712@gmail.com**
 

@@ -29,7 +29,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hu6_3Q30lBfsk49hAaRSRWsbSAHkNyIr/view?usp=drive_link)
 
-- 😊 Checkout My [Personal Portfolio ](https://personal-portfolio-42qh.vercel.app/)
+- 😊 Checkout My [Personal Portfolio ](https://personal-portfolio-eta-ebon.vercel.app/)
 
 - ⚡ Fun fact **Chats are boring, Let's meet**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

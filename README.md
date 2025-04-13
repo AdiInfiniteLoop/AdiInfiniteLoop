@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 🔖 Read My Latest Blog on [Hashnode](https://blogsadityapradhango.hashnode.dev/sqlc-for-gophers)
+- 🔖 Read My Latest Blog on [Hashnode](https://blogsadityapradhango.hashnode.dev/goroutines)
 
 - 💬 Ask me about **Go, Typescript, Linux Systems**
 

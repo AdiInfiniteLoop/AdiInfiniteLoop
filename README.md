@@ -17,7 +17,7 @@
 
 <img align="right" width=400px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Nothing**
 
 - 🔖 Read My Latest Blog on [Hashnode](https://blogsadityapradhango.hashnode.dev/goroutines)
 
